@@ -1,0 +1,5 @@
+{
+  "tasks": {
+    "synth": "deno run -A npm:aws-cdk synth"
+  }
+}
